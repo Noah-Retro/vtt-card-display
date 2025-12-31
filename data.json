@@ -1,0 +1,1690 @@
+{
+  "folderPath": "Cards",
+  "mapsFolderPath": "Maps",
+  "popoutLeft": 1797,
+  "popoutTop": 0,
+  "popoutWidth": 800,
+  "popoutHeight": 600,
+  "statblockSelectors": ".statblock,.stat-block,.quickmonster,.qm,.statblock-render,.statblock-container",
+  "showPlayerInfo": false,
+  "favorites": [],
+  "sessionHistory": [
+    {
+      "path": "Maps/Sacrifice Tower Battle Map.md",
+      "timestamp": 1767153501937,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Sacrifice Tower Battle Map.md",
+      "timestamp": 1767153535192,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Mountain Gait.md",
+      "timestamp": 1767153673614,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Mountain Gait.md",
+      "timestamp": 1767153674190,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Mountain Gait.md",
+      "timestamp": 1767153674346,
+      "type": "map"
+    },
+    {
+      "path": "Maps/OC Waterfalls Animated Battlemap.md",
+      "timestamp": 1767153842162,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Sacrifice Tower Battle Map.md",
+      "timestamp": 1767153858780,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Sacrifice Tower Battle Map.md",
+      "timestamp": 1767153859007,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Sacrifice Tower Battle Map.md",
+      "timestamp": 1767153995879,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Sacrifice Tower Battle Map.md",
+      "timestamp": 1767154105772,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Sacrifice Tower Battle Map.md",
+      "timestamp": 1767154522092,
+      "type": "map"
+    },
+    {
+      "path": "Cards/dragon.svg",
+      "timestamp": 1767155109004,
+      "type": "card"
+    },
+    {
+      "path": "Maps/Sacrifice Tower Battle Map.md",
+      "timestamp": 1767155114542,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Mountain Gait.md",
+      "timestamp": 1767155119290,
+      "type": "map"
+    },
+    {
+      "path": "Cards/dragon.svg",
+      "timestamp": 1767155256223,
+      "type": "card"
+    },
+    {
+      "path": "Maps/Arcane Storm version2_nogrid_Logos.png",
+      "timestamp": 1767155261176,
+      "type": "map"
+    },
+    {
+      "path": "Cards/images/beast.webp",
+      "timestamp": 1767155345477,
+      "type": "card"
+    },
+    {
+      "path": "Cards/images/beast.webp",
+      "timestamp": 1767155352374,
+      "type": "card"
+    },
+    {
+      "path": "Cards/images/beast.webp",
+      "timestamp": 1767155392624,
+      "type": "card"
+    },
+    {
+      "path": "Cards/dragon.svg",
+      "timestamp": 1767155482908,
+      "type": "card"
+    },
+    {
+      "path": "Cards/dragon.svg",
+      "timestamp": 1767155568536,
+      "type": "card"
+    },
+    {
+      "path": "Maps/Arcane Storm version2_nogrid_Logos.png",
+      "timestamp": 1767155574701,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Mountain Gait.md",
+      "timestamp": 1767155577806,
+      "type": "map"
+    },
+    {
+      "path": "Maps/OC Waterfalls Animated Battlemap.md",
+      "timestamp": 1767155580983,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Sacrifice Tower Battle Map.md",
+      "timestamp": 1767155582679,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Free Animated Battlemap Feedback appreciated.md",
+      "timestamp": 1767155583855,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Free Animated Battlemap Feedback appreciated.md",
+      "timestamp": 1767155588246,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Arcane Storm version2_nogrid_Logos.png",
+      "timestamp": 1767155864484,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Arcane Storm version2_nogrid_Logos.png",
+      "timestamp": 1767155872980,
+      "type": "map"
+    },
+    {
+      "path": "Cards/dragon.svg",
+      "timestamp": 1767155888024,
+      "type": "card"
+    },
+    {
+      "path": "Cards/dragon.svg",
+      "timestamp": 1767155896784,
+      "type": "card"
+    },
+    {
+      "path": "Maps/OC Waterfalls Animated Battlemap.md",
+      "timestamp": 1767155999576,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Sacrifice Tower Battle Map.md",
+      "timestamp": 1767156003622,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Free Animated Battlemap Feedback appreciated.md",
+      "timestamp": 1767157338167,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Arcane Storm version2_nogrid_Logos.png",
+      "timestamp": 1767157539582,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Free Animated Battlemap Feedback appreciated.md",
+      "timestamp": 1767157546569,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Forest Camp - free animated battle map OC Check co.md",
+      "timestamp": 1767157821629,
+      "type": "map"
+    },
+    {
+      "path": "Maps/FREE Haunted Forest Animated Battle Map.md",
+      "timestamp": 1767158916340,
+      "type": "map"
+    },
+    {
+      "path": "Maps/FREE Haunted Forest Animated Battle Map.md",
+      "timestamp": 1767158918724,
+      "type": "map"
+    },
+    {
+      "path": "Maps/FREE Haunted Forest Animated Battle Map.md",
+      "timestamp": 1767158918725,
+      "type": "map"
+    },
+    {
+      "path": "Cards/dragon.svg",
+      "timestamp": 1767159061498,
+      "type": "card"
+    },
+    {
+      "path": "Cards/dragon.svg",
+      "timestamp": 1767159063169,
+      "type": "card"
+    },
+    {
+      "path": "Cards/dragon.svg",
+      "timestamp": 1767159063359,
+      "type": "card"
+    },
+    {
+      "path": "Maps/Sacrifice Tower Battle Map.md",
+      "timestamp": 1767159090240,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Sacrifice Tower Battle Map.md",
+      "timestamp": 1767159090486,
+      "type": "map"
+    },
+    {
+      "path": "Cards/dragon.svg",
+      "timestamp": 1767159198710,
+      "type": "card"
+    },
+    {
+      "path": "Cards/dragon.svg",
+      "timestamp": 1767159573388,
+      "type": "card"
+    },
+    {
+      "path": "Cards/goblin.svg",
+      "timestamp": 1767159577582,
+      "type": "card"
+    },
+    {
+      "path": "Maps/Sacrifice Tower Battle Map.md",
+      "timestamp": 1767159583676,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Forest Camp - free animated battle map OC Check co.md",
+      "timestamp": 1767159603744,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Arcane Storm version2_nogrid_Logos.png",
+      "timestamp": 1767159606090,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Mountain Gait.md",
+      "timestamp": 1767159607157,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Free Animated Battlemap Feedback appreciated.md",
+      "timestamp": 1767159607859,
+      "type": "map"
+    },
+    {
+      "path": "Maps/OC Waterfalls Animated Battlemap.md",
+      "timestamp": 1767159610188,
+      "type": "map"
+    },
+    {
+      "path": "Cards/dragon.svg",
+      "timestamp": 1767159806038,
+      "type": "card"
+    },
+    {
+      "path": "Cards/goblin.svg",
+      "timestamp": 1767160394647,
+      "type": "card"
+    },
+    {
+      "path": "Cards/dragon.svg",
+      "timestamp": 1767160751677,
+      "type": "card"
+    },
+    {
+      "path": "Cards/dragon.svg",
+      "timestamp": 1767160755154,
+      "type": "card"
+    },
+    {
+      "path": "Cards/dragon.svg",
+      "timestamp": 1767160755330,
+      "type": "card"
+    },
+    {
+      "path": "Cards/dragon.svg",
+      "timestamp": 1767160778914,
+      "type": "card"
+    },
+    {
+      "path": "Cards/dragon.svg",
+      "timestamp": 1767160836771,
+      "type": "card"
+    },
+    {
+      "path": "Maps/Sacrifice Tower Battle Map.md",
+      "timestamp": 1767160926747,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Sacrifice Tower Battle Map.md",
+      "timestamp": 1767160926990,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Sacrifice Tower Battle Map.md",
+      "timestamp": 1767160929341,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Sacrifice Tower Battle Map.md",
+      "timestamp": 1767160930312,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Sacrifice Tower Battle Map.md",
+      "timestamp": 1767160930521,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Arcane Storm version2_nogrid_Logos.png",
+      "timestamp": 1767160966827,
+      "type": "map"
+    },
+    {
+      "path": "Maps/OC Waterfalls Animated Battlemap.md",
+      "timestamp": 1767160981337,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Mountain Gait.md",
+      "timestamp": 1767161018416,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Free Animated Battlemap Feedback appreciated.md",
+      "timestamp": 1767161062067,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Forest Camp - free animated battle map OC Check co.md",
+      "timestamp": 1767161064306,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Forest Camp - free animated battle map OC Check co.md",
+      "timestamp": 1767161064307,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Forest Camp - free animated battle map OC Check co.md",
+      "timestamp": 1767161066150,
+      "type": "map"
+    },
+    {
+      "path": "Maps/OC Waterfalls Animated Battlemap.md",
+      "timestamp": 1767161084424,
+      "type": "map"
+    },
+    {
+      "path": "Maps/OC Waterfalls Animated Battlemap.md",
+      "timestamp": 1767161084652,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Sacrifice Tower Battle Map.md",
+      "timestamp": 1767161095720,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Sacrifice Tower Battle Map.md",
+      "timestamp": 1767161095976,
+      "type": "map"
+    },
+    {
+      "path": "Cards/dragon.svg",
+      "timestamp": 1767161103659,
+      "type": "card"
+    },
+    {
+      "path": "Maps/Forest Camp - free animated battle map OC Check co.md",
+      "timestamp": 1767161124653,
+      "type": "map"
+    },
+    {
+      "path": "Maps/OC Waterfalls Animated Battlemap.md",
+      "timestamp": 1767161138017,
+      "type": "map"
+    },
+    {
+      "path": "Maps/OC Waterfalls Animated Battlemap.md",
+      "timestamp": 1767161138307,
+      "type": "map"
+    },
+    {
+      "path": "Maps/OC Waterfalls Animated Battlemap.md",
+      "timestamp": 1767161415229,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Sacrifice Tower Battle Map.md",
+      "timestamp": 1767161458029,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Mountain Gait.md",
+      "timestamp": 1767161465400,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Mountain Gait.md",
+      "timestamp": 1767161465591,
+      "type": "map"
+    },
+    {
+      "path": "Cards/dragon.svg",
+      "timestamp": 1767161486042,
+      "type": "card"
+    },
+    {
+      "path": "Cards/dragon.svg",
+      "timestamp": 1767161486216,
+      "type": "card"
+    },
+    {
+      "path": "Maps/Sacrifice Tower Battle Map.md",
+      "timestamp": 1767161630570,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Sacrifice Tower Battle Map.md",
+      "timestamp": 1767161901443,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Sacrifice Tower Battle Map.md",
+      "timestamp": 1767161919094,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Sacrifice Tower Battle Map.md",
+      "timestamp": 1767161919333,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Sacrifice Tower Battle Map.md",
+      "timestamp": 1767161950476,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Sacrifice Tower Battle Map.md",
+      "timestamp": 1767161950704,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Sacrifice Tower Battle Map.md",
+      "timestamp": 1767161957818,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Sacrifice Tower Battle Map.md",
+      "timestamp": 1767161958049,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Arcane Storm version2_nogrid_Logos.png",
+      "timestamp": 1767162416517,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Mountain Gait.md",
+      "timestamp": 1767162525518,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Forest Camp - free animated battle map OC Check co.md",
+      "timestamp": 1767162667048,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Sacrifice Tower Battle Map.md",
+      "timestamp": 1767162691527,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Sacrifice Tower Battle Map.md",
+      "timestamp": 1767162811371,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Arcane Storm version2_nogrid_Logos.png",
+      "timestamp": 1767162946558,
+      "type": "map"
+    },
+    {
+      "path": "Maps/OC Waterfalls Animated Battlemap.md",
+      "timestamp": 1767162985796,
+      "type": "map"
+    },
+    {
+      "path": "Maps/OC Waterfalls Animated Battlemap.md",
+      "timestamp": 1767162986100,
+      "type": "map"
+    },
+    {
+      "path": "Cards/dragon.svg",
+      "timestamp": 1767163064789,
+      "type": "card"
+    },
+    {
+      "path": "Maps/Arcane Storm version2_nogrid_Logos.png",
+      "timestamp": 1767163082996,
+      "type": "map"
+    },
+    {
+      "path": "Maps/FREE Haunted Forest Animated Battle Map.md",
+      "timestamp": 1767163114668,
+      "type": "map"
+    },
+    {
+      "path": "Maps/OC Waterfalls Animated Battlemap.md",
+      "timestamp": 1767163128053,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Sacrifice Tower Battle Map.md",
+      "timestamp": 1767163166520,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Sacrifice Tower Battle Map.md",
+      "timestamp": 1767163166783,
+      "type": "map"
+    },
+    {
+      "path": "Maps/FREE Haunted Forest Animated Battle Map.md",
+      "timestamp": 1767163172402,
+      "type": "map"
+    },
+    {
+      "path": "Maps/FREE Haunted Forest Animated Battle Map.md",
+      "timestamp": 1767163172577,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Forest Camp - free animated battle map OC Check co.md",
+      "timestamp": 1767163187570,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Arcane Storm version2_nogrid_Logos.png",
+      "timestamp": 1767163191750,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Arcane Storm version2_nogrid_Logos.png",
+      "timestamp": 1767163191932,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Free Animated Battlemap Feedback appreciated.md",
+      "timestamp": 1767163238249,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Free Animated Battlemap Feedback appreciated.md",
+      "timestamp": 1767163240290,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Arcane Storm version2_nogrid_Logos.png",
+      "timestamp": 1767163245605,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Arcane Storm version2_nogrid_Logos.png",
+      "timestamp": 1767163245767,
+      "type": "map"
+    },
+    {
+      "path": "Maps/OC Waterfalls Animated Battlemap.md",
+      "timestamp": 1767163250326,
+      "type": "map"
+    },
+    {
+      "path": "Maps/OC Waterfalls Animated Battlemap.md",
+      "timestamp": 1767163250559,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Sacrifice Tower Battle Map.md",
+      "timestamp": 1767163252678,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Sacrifice Tower Battle Map.md",
+      "timestamp": 1767163252936,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Forest Camp - free animated battle map OC Check co.md",
+      "timestamp": 1767163254009,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Forest Camp - free animated battle map OC Check co.md",
+      "timestamp": 1767163254178,
+      "type": "map"
+    },
+    {
+      "path": "Cards/dragon.svg",
+      "timestamp": 1767163256054,
+      "type": "card"
+    },
+    {
+      "path": "Cards/dragon.svg",
+      "timestamp": 1767163256245,
+      "type": "card"
+    },
+    {
+      "path": "Cards/goblin.svg",
+      "timestamp": 1767163257626,
+      "type": "card"
+    },
+    {
+      "path": "Maps/FREE Haunted Forest Animated Battle Map.md",
+      "timestamp": 1767163259042,
+      "type": "map"
+    },
+    {
+      "path": "Maps/OC Waterfalls Animated Battlemap.md",
+      "timestamp": 1767163262316,
+      "type": "map"
+    },
+    {
+      "path": "Maps/OC Waterfalls Animated Battlemap.md",
+      "timestamp": 1767163262317,
+      "type": "map"
+    },
+    {
+      "path": "Maps/OC Waterfalls Animated Battlemap.md",
+      "timestamp": 1767163265581,
+      "type": "map"
+    },
+    {
+      "path": "Maps/OC Waterfalls Animated Battlemap.md",
+      "timestamp": 1767163265812,
+      "type": "map"
+    },
+    {
+      "path": "Maps/OC Waterfalls Animated Battlemap.md",
+      "timestamp": 1767163267160,
+      "type": "map"
+    },
+    {
+      "path": "Maps/OC Waterfalls Animated Battlemap.md",
+      "timestamp": 1767163267369,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Sacrifice Tower Battle Map.md",
+      "timestamp": 1767163268299,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Sacrifice Tower Battle Map.md",
+      "timestamp": 1767163268570,
+      "type": "map"
+    },
+    {
+      "path": "Maps/OC Waterfalls Animated Battlemap.md",
+      "timestamp": 1767163280597,
+      "type": "map"
+    },
+    {
+      "path": "Maps/OC Waterfalls Animated Battlemap.md",
+      "timestamp": 1767163280756,
+      "type": "map"
+    },
+    {
+      "path": "Maps/FREE Haunted Forest Animated Battle Map.md",
+      "timestamp": 1767163285645,
+      "type": "map"
+    },
+    {
+      "path": "Maps/FREE Haunted Forest Animated Battle Map.md",
+      "timestamp": 1767163285798,
+      "type": "map"
+    },
+    {
+      "path": "Maps/FREE Haunted Forest Animated Battle Map.md",
+      "timestamp": 1767163296671,
+      "type": "map"
+    },
+    {
+      "path": "Maps/FREE Haunted Forest Animated Battle Map.md",
+      "timestamp": 1767163296860,
+      "type": "map"
+    },
+    {
+      "path": "Maps/FREE Haunted Forest Animated Battle Map.md",
+      "timestamp": 1767163297861,
+      "type": "map"
+    },
+    {
+      "path": "Maps/FREE Haunted Forest Animated Battle Map.md",
+      "timestamp": 1767163298011,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Free Animated Battlemap Feedback appreciated.md",
+      "timestamp": 1767163302242,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Free Animated Battlemap Feedback appreciated.md",
+      "timestamp": 1767163302243,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Free Animated Battlemap Feedback appreciated.md",
+      "timestamp": 1767163305142,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Free Animated Battlemap Feedback appreciated.md",
+      "timestamp": 1767163305143,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Sacrifice Tower Battle Map.md",
+      "timestamp": 1767163427144,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Sacrifice Tower Battle Map.md",
+      "timestamp": 1767163427384,
+      "type": "map"
+    },
+    {
+      "path": "Maps/FREE Haunted Forest Animated Battle Map.md",
+      "timestamp": 1767163443558,
+      "type": "map"
+    },
+    {
+      "path": "Maps/FREE Haunted Forest Animated Battle Map.md",
+      "timestamp": 1767163443740,
+      "type": "map"
+    },
+    {
+      "path": "Maps/OC Waterfalls Animated Battlemap.md",
+      "timestamp": 1767163908001,
+      "type": "map"
+    },
+    {
+      "path": "Maps/FREE Haunted Forest Animated Battle Map.md",
+      "timestamp": 1767163916553,
+      "type": "map"
+    },
+    {
+      "path": "Maps/OC Waterfalls Animated Battlemap.md",
+      "timestamp": 1767164173554,
+      "type": "map"
+    },
+    {
+      "path": "Maps/FREE Haunted Forest Animated Battle Map.md",
+      "timestamp": 1767164176463,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Forest Camp - free animated battle map OC Check co.md",
+      "timestamp": 1767164178817,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Sacrifice Tower Battle Map.md",
+      "timestamp": 1767164183449,
+      "type": "map"
+    },
+    {
+      "path": "Maps/OC Waterfalls Animated Battlemap.md",
+      "timestamp": 1767164544891,
+      "type": "map"
+    },
+    {
+      "path": "Maps/FREE Haunted Forest Animated Battle Map.md",
+      "timestamp": 1767164548128,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Forest Camp - free animated battle map OC Check co.md",
+      "timestamp": 1767164551825,
+      "type": "map"
+    },
+    {
+      "path": "Maps/OC Waterfalls Animated Battlemap.md",
+      "timestamp": 1767164553302,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Sacrifice Tower Battle Map.md",
+      "timestamp": 1767164554259,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Sacrifice Tower Battle Map.md",
+      "timestamp": 1767164555516,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Mountain Gait.md",
+      "timestamp": 1767164556480,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Mountain Gait.md",
+      "timestamp": 1767164557058,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Mountain Gait.md",
+      "timestamp": 1767164557240,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Mountain Gait.md",
+      "timestamp": 1767164557804,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Arcane Storm version2_nogrid_Logos.png",
+      "timestamp": 1767164559900,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Free Animated Battlemap Feedback appreciated.md",
+      "timestamp": 1767164564987,
+      "type": "map"
+    },
+    {
+      "path": "Cards/dragon.svg",
+      "timestamp": 1767164568238,
+      "type": "card"
+    },
+    {
+      "path": "Maps/Mountain Gait.md",
+      "timestamp": 1767164570328,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Arcane Storm version2_nogrid_Logos.png",
+      "timestamp": 1767164571703,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Free Animated Battlemap Feedback appreciated.md",
+      "timestamp": 1767164572711,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Sacrifice Tower Battle Map.md",
+      "timestamp": 1767164575061,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Free Animated Battlemap Feedback appreciated.md",
+      "timestamp": 1767164576102,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Free Animated Battlemap Feedback appreciated.md",
+      "timestamp": 1767164578423,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Arcane Storm version2_nogrid_Logos.png",
+      "timestamp": 1767164580899,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Arcane Storm version2_nogrid_Logos.png",
+      "timestamp": 1767164580899,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Arcane Storm version2_nogrid_Logos.png",
+      "timestamp": 1767164581853,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Arcane Storm version2_nogrid_Logos.png",
+      "timestamp": 1767164582028,
+      "type": "map"
+    },
+    {
+      "path": "Maps/OC Waterfalls Animated Battlemap.md",
+      "timestamp": 1767164583797,
+      "type": "map"
+    },
+    {
+      "path": "Maps/OC Waterfalls Animated Battlemap.md",
+      "timestamp": 1767164583996,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Forest Camp - free animated battle map OC Check co.md",
+      "timestamp": 1767164586625,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Forest Camp - free animated battle map OC Check co.md",
+      "timestamp": 1767164586794,
+      "type": "map"
+    },
+    {
+      "path": "Maps/FREE Haunted Forest Animated Battle Map.md",
+      "timestamp": 1767164588386,
+      "type": "map"
+    },
+    {
+      "path": "Maps/FREE Haunted Forest Animated Battle Map.md",
+      "timestamp": 1767164588532,
+      "type": "map"
+    },
+    {
+      "path": "Maps/FREE Haunted Forest Animated Battle Map.md",
+      "timestamp": 1767164595862,
+      "type": "map"
+    },
+    {
+      "path": "Maps/FREE Haunted Forest Animated Battle Map.md",
+      "timestamp": 1767164595863,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Forest Camp - free animated battle map OC Check co.md",
+      "timestamp": 1767164603900,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Forest Camp - free animated battle map OC Check co.md",
+      "timestamp": 1767164603901,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Forest Camp - free animated battle map OC Check co.md",
+      "timestamp": 1767164603912,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Free Animated Battlemap Feedback appreciated.md",
+      "timestamp": 1767164672268,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Free Animated Battlemap Feedback appreciated.md",
+      "timestamp": 1767164674350,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Free Animated Battlemap Feedback appreciated.md",
+      "timestamp": 1767164674351,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Forest Camp - free animated battle map OC Check co.md",
+      "timestamp": 1767164928658,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Free Animated Battlemap Feedback appreciated.md",
+      "timestamp": 1767164939294,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Mountain Gait.md",
+      "timestamp": 1767164945339,
+      "type": "map"
+    },
+    {
+      "path": "Maps/OC Waterfalls Animated Battlemap.md",
+      "timestamp": 1767164949505,
+      "type": "map"
+    },
+    {
+      "path": "Maps/OC Waterfalls Animated Battlemap.md",
+      "timestamp": 1767165012961,
+      "type": "map"
+    },
+    {
+      "path": "Maps/OC Waterfalls Animated Battlemap.md",
+      "timestamp": 1767165013531,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Forest Camp - free animated battle map OC Check co.md",
+      "timestamp": 1767165015966,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Forest Camp - free animated battle map OC Check co.md",
+      "timestamp": 1767165016141,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Forest Camp - free animated battle map OC Check co.md",
+      "timestamp": 1767165019803,
+      "type": "map"
+    },
+    {
+      "path": "Maps/OC Waterfalls Animated Battlemap.md",
+      "timestamp": 1767165023897,
+      "type": "map"
+    },
+    {
+      "path": "Maps/OC Waterfalls Animated Battlemap.md",
+      "timestamp": 1767165024065,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Forest Camp - free animated battle map OC Check co.md",
+      "timestamp": 1767165026609,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Forest Camp - free animated battle map OC Check co.md",
+      "timestamp": 1767165026787,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Forest Camp - free animated battle map OC Check co.md",
+      "timestamp": 1767165028803,
+      "type": "map"
+    },
+    {
+      "path": "Maps/OC Waterfalls Animated Battlemap.md",
+      "timestamp": 1767165030521,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Forest Camp - free animated battle map OC Check co.md",
+      "timestamp": 1767165032780,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Sacrifice Tower Battle Map.md",
+      "timestamp": 1767165034147,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Forest Camp - free animated battle map OC Check co.md",
+      "timestamp": 1767165035265,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Mountain Gait.md",
+      "timestamp": 1767165036844,
+      "type": "map"
+    },
+    {
+      "path": "Maps/OC Waterfalls Animated Battlemap.md",
+      "timestamp": 1767165037743,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Free Animated Battlemap Feedback appreciated.md",
+      "timestamp": 1767165039578,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Free Animated Battlemap Feedback appreciated.md",
+      "timestamp": 1767165042191,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Free Animated Battlemap Feedback appreciated.md",
+      "timestamp": 1767165042192,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Arcane Storm version2_nogrid_Logos.png",
+      "timestamp": 1767165045047,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Arcane Storm version2_nogrid_Logos.png",
+      "timestamp": 1767165047698,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Arcane Storm version2_nogrid_Logos.png",
+      "timestamp": 1767165047699,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Arcane Storm version2_nogrid_Logos.png",
+      "timestamp": 1767165048673,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Arcane Storm version2_nogrid_Logos.png",
+      "timestamp": 1767165048848,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Sacrifice Tower Battle Map.md",
+      "timestamp": 1767165049732,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Sacrifice Tower Battle Map.md",
+      "timestamp": 1767165049975,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Sacrifice Tower Battle Map.md",
+      "timestamp": 1767165250510,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Sacrifice Tower Battle Map.md",
+      "timestamp": 1767165250746,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Sacrifice Tower Battle Map.md",
+      "timestamp": 1767165454916,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Sacrifice Tower Battle Map.md",
+      "timestamp": 1767165455142,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Sacrifice Tower Battle Map.md",
+      "timestamp": 1767165690472,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Sacrifice Tower Battle Map.md",
+      "timestamp": 1767165843501,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Sacrifice Tower Battle Map.md",
+      "timestamp": 1767165954395,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Sacrifice Tower Battle Map.md",
+      "timestamp": 1767166070718,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Arcane Storm version2_nogrid_Logos.png",
+      "timestamp": 1767166295992,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Sacrifice Tower Battle Map.md",
+      "timestamp": 1767166303588,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Arcane Storm version2_nogrid_Logos.png",
+      "timestamp": 1767166324171,
+      "type": "map"
+    },
+    {
+      "path": "Maps/OC Waterfalls Animated Battlemap.md",
+      "timestamp": 1767166331505,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Forest Camp - free animated battle map OC Check co.md",
+      "timestamp": 1767166340769,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Mountain Gait.md",
+      "timestamp": 1767166345302,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Arcane Storm version2_nogrid_Logos.png",
+      "timestamp": 1767166349499,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Sacrifice Tower Battle Map.md",
+      "timestamp": 1767166383856,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Arcane Storm version2_nogrid_Logos.png",
+      "timestamp": 1767166389969,
+      "type": "map"
+    },
+    {
+      "path": "Maps/OC Waterfalls Animated Battlemap.md",
+      "timestamp": 1767166399371,
+      "type": "map"
+    },
+    {
+      "path": "Maps/OC Waterfalls Animated Battlemap.md",
+      "timestamp": 1767166409029,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Mountain Gait.md",
+      "timestamp": 1767166412962,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Forest Camp - free animated battle map OC Check co.md",
+      "timestamp": 1767166417875,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Arcane Storm version2_nogrid_Logos.png",
+      "timestamp": 1767166421363,
+      "type": "map"
+    },
+    {
+      "path": "Cards/dragon.svg",
+      "timestamp": 1767166426765,
+      "type": "card"
+    },
+    {
+      "path": "Maps/Water/Canyon Encounters battlemap.md",
+      "timestamp": 1767166430947,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Forest/ForestPath1.jpg",
+      "timestamp": 1767166434830,
+      "type": "map"
+    },
+    {
+      "path": "Maps/OC Waterfalls Animated Battlemap.md",
+      "timestamp": 1767166561758,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Arcane Storm version2_nogrid_Logos.png",
+      "timestamp": 1767166567153,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Sacrifice Tower Battle Map.md",
+      "timestamp": 1767166570691,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Forest Camp - free animated battle map OC Check co.md",
+      "timestamp": 1767166575333,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Free Animated Battlemap Feedback appreciated.md",
+      "timestamp": 1767166578630,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Arcane Storm version2_nogrid_Logos.png",
+      "timestamp": 1767166585575,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Forest Camp - free animated battle map OC Check co.md",
+      "timestamp": 1767166599706,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Sacrifice Tower Battle Map.md",
+      "timestamp": 1767166718636,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Arcane Storm version2_nogrid_Logos.png",
+      "timestamp": 1767166721956,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Forest Camp - free animated battle map OC Check co.md",
+      "timestamp": 1767166760062,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Arcane Storm version2_nogrid_Logos.png",
+      "timestamp": 1767166829543,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Forest Camp - free animated battle map OC Check co.md",
+      "timestamp": 1767166856828,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Forest Camp - free animated battle map OC Check co.md",
+      "timestamp": 1767166865512,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Forest Camp - free animated battle map OC Check co.md",
+      "timestamp": 1767166866112,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Forest Camp - free animated battle map OC Check co.md",
+      "timestamp": 1767166866292,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Arcane Storm version2_nogrid_Logos.png",
+      "timestamp": 1767166871207,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Arcane Storm version2_nogrid_Logos.png",
+      "timestamp": 1767166871368,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Arcane Storm version2_nogrid_Logos.png",
+      "timestamp": 1767166872742,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Arcane Storm version2_nogrid_Logos.png",
+      "timestamp": 1767166872910,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Forest Camp - free animated battle map OC Check co.md",
+      "timestamp": 1767166873685,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Forest Camp - free animated battle map OC Check co.md",
+      "timestamp": 1767166873872,
+      "type": "map"
+    },
+    {
+      "path": "Maps/OC Waterfalls Animated Battlemap.md",
+      "timestamp": 1767166876675,
+      "type": "map"
+    },
+    {
+      "path": "Maps/OC Waterfalls Animated Battlemap.md",
+      "timestamp": 1767166876875,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Free Animated Battlemap Feedback appreciated.md",
+      "timestamp": 1767166879534,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Free Animated Battlemap Feedback appreciated.md",
+      "timestamp": 1767166882245,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Free Animated Battlemap Feedback appreciated.md",
+      "timestamp": 1767166882246,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Free Animated Battlemap Feedback appreciated.md",
+      "timestamp": 1767166882250,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Free Animated Battlemap Feedback appreciated.md",
+      "timestamp": 1767166882251,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Free Animated Battlemap Feedback appreciated.md",
+      "timestamp": 1767166882253,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Free Animated Battlemap Feedback appreciated.md",
+      "timestamp": 1767166882254,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Free Animated Battlemap Feedback appreciated.md",
+      "timestamp": 1767166884996,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Free Animated Battlemap Feedback appreciated.md",
+      "timestamp": 1767166884997,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Mountain Gait.md",
+      "timestamp": 1767166887759,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Mountain Gait.md",
+      "timestamp": 1767166887760,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Mountain Gait.md",
+      "timestamp": 1767166890372,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Mountain Gait.md",
+      "timestamp": 1767166890373,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Mountain Gait.md",
+      "timestamp": 1767166892846,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Mountain Gait.md",
+      "timestamp": 1767166892846,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Mountain Gait.md",
+      "timestamp": 1767166892850,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Mountain Gait.md",
+      "timestamp": 1767166892850,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Mountain Gait.md",
+      "timestamp": 1767166892852,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Mountain Gait.md",
+      "timestamp": 1767166892894,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Mountain Gait.md",
+      "timestamp": 1767166895474,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Mountain Gait.md",
+      "timestamp": 1767166895474,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Mountain Gait.md",
+      "timestamp": 1767166895477,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Mountain Gait.md",
+      "timestamp": 1767166895478,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Mountain Gait.md",
+      "timestamp": 1767166898134,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Mountain Gait.md",
+      "timestamp": 1767166898134,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Mountain Gait.md",
+      "timestamp": 1767166898138,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Mountain Gait.md",
+      "timestamp": 1767166898139,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Mountain Gait.md",
+      "timestamp": 1767166900725,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Mountain Gait.md",
+      "timestamp": 1767166900726,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Mountain Gait.md",
+      "timestamp": 1767166900730,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Mountain Gait.md",
+      "timestamp": 1767166900731,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Mountain Gait.md",
+      "timestamp": 1767166903158,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Mountain Gait.md",
+      "timestamp": 1767166903159,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Mountain Gait.md",
+      "timestamp": 1767166903909,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Mountain Gait.md",
+      "timestamp": 1767166905025,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Mountain Gait.md",
+      "timestamp": 1767166905205,
+      "type": "map"
+    },
+    {
+      "path": "Maps/OC Waterfalls Animated Battlemap.md",
+      "timestamp": 1767166906926,
+      "type": "map"
+    },
+    {
+      "path": "Maps/OC Waterfalls Animated Battlemap.md",
+      "timestamp": 1767166907162,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Forest Camp - free animated battle map OC Check co.md",
+      "timestamp": 1767166910128,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Forest Camp - free animated battle map OC Check co.md",
+      "timestamp": 1767166910314,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Sacrifice Tower Battle Map.md",
+      "timestamp": 1767166912146,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Sacrifice Tower Battle Map.md",
+      "timestamp": 1767166912405,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Arcane Storm version2_nogrid_Logos.png",
+      "timestamp": 1767166913513,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Free Animated Battlemap Feedback appreciated.md",
+      "timestamp": 1767166914734,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Free Animated Battlemap Feedback appreciated.md",
+      "timestamp": 1767166917044,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Free Animated Battlemap Feedback appreciated.md",
+      "timestamp": 1767166917056,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Free Animated Battlemap Feedback appreciated.md",
+      "timestamp": 1767166917056,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Free Animated Battlemap Feedback appreciated.md",
+      "timestamp": 1767166917059,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Free Animated Battlemap Feedback appreciated.md",
+      "timestamp": 1767166917060,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Free Animated Battlemap Feedback appreciated.md",
+      "timestamp": 1767166919590,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Free Animated Battlemap Feedback appreciated.md",
+      "timestamp": 1767166919591,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Arcane Storm version2_nogrid_Logos.png",
+      "timestamp": 1767166924942,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Arcane Storm version2_nogrid_Logos.png",
+      "timestamp": 1767166924943,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Forest/ForestPath1.jpg",
+      "timestamp": 1767166930332,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Forest/ForestPath1.jpg",
+      "timestamp": 1767166930636,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Forest/ForestPath1.jpg",
+      "timestamp": 1767166933128,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Forest/ForestPath1.jpg",
+      "timestamp": 1767166933129,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Forest/ForestEncounter.jpg",
+      "timestamp": 1767166935782,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Forest/ForestEncounter.jpg",
+      "timestamp": 1767166935784,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Forest/ForestEncounter.jpg",
+      "timestamp": 1767166937301,
+      "type": "map"
+    },
+    {
+      "path": "Maps/Forest/ForestEncounter.jpg",
+      "timestamp": 1767166937481,
+      "type": "map"
+    }
+  ],
+  "gridSize": 50,
+  "gridColor": "#000000",
+  "gridOpacity": 0.5,
+  "fogRevealSize": 30,
+  "fogTexture": "solid",
+  "customFogTextures": [],
+  "items": []
+}

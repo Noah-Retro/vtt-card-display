@@ -1,0 +1,9 @@
+{
+  "id": "vtt-card-display",
+  "name": "VTT Card Display",
+  "version": "0.1.0",
+  "minAppVersion": "1.0.0",
+  "author": "noah",
+  "description": "Show game cards and pop them out to another window (e.g., second monitor).",
+  "main": "main.js"
+}

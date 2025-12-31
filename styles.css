@@ -1,0 +1,11 @@
+/* Simple styles for VTT Card Display popout (if you want to load separately) */
+body{background:#111;color:#fff}
+#card{display:block;margin:auto;max-width:100%;max-height:100vh}
+
+.vtt-project-btn{background:#2b90d9;color:#fff;border:none;padding:6px 10px;border-radius:4px;cursor:pointer}
+.vtt-project-btn:hover{filter:brightness(1.05)}
+.vtt-item-row{padding:6px;border-bottom:1px solid #222;margin-bottom:6px}
+.vtt-thumb-grid{display:flex;flex-wrap:wrap;gap:8px;padding:8px}
+.vtt-thumb{width:120px;height:120px;display:flex;align-items:center;justify-content:center;background:#111;border:1px solid #333;padding:4px;cursor:pointer}
+.vtt-thumb img{max-width:100%;max-height:100%}
+.vtt-viewer-controls{display:flex;gap:8px;padding:8px}

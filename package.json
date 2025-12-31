@@ -1,0 +1,16 @@
+{
+  "name": "vtt-card-display",
+  "version": "0.1.0",
+  "description": "VTT Card Display Obsidian plugin",
+  "scripts": {
+    "build": "esbuild src/main.ts --bundle --platform=browser --outfile=main.js --format=cjs --target=es2020 --sourcemap --external:obsidian --define:process.env.NODE_ENV='\"production\"' --footer:js=\"module.exports = (module.exports && module.exports.default) ? module.exports.default : module.exports;\"",
+    "tsc": "tsc -noEmit -skipLibCheck",
+    "test": "node test/verify.js",
+    "package": "node ./scripts/package-plugin.js"
+  },
+  "devDependencies": {
+    "esbuild": "^0.19.0",
+    "typescript": "^5.0.0",
+    "archiver": "^5.3.0"
+  }
+}
