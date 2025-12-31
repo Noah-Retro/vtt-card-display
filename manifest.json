@@ -3,7 +3,7 @@
   "name": "VTT Display",
   "version": "1.0.0",
   "minAppVersion": "1.5.0",
-  "author": "noah",
+  "author": "Noah Schneieder",
   "description": "Shows images of maps on an secondscreen so you can easaly manage your battle maps. It also searches for battle maps and monsters online. It allows fog of war and grid overlay. Perfekt for beaming your map on the table or on an second screen.",
   "main": "main.js",
   "authorUrl":"https://github.com/Noah-Retro"

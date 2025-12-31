@@ -90,4 +90,13 @@ npm run build
 Weiteres
 - Fehler/Feature-Requests: Issue mit Popout-Logs (Developer Console) und kurzer Beschreibung anhängen.
 
+## Benötigte Internet‑Services
+
+- **Wikimedia / MediaWiki API:** Die in `src/search-apis.ts` implementierten Such‑ und Bildfunktionen nutzen MediaWiki‑APIs (z. B. Wikimedia) per HTTPS, um Bilder und Seitenbilder zu finden. Diese Verbindung ist nur für die Suche nach Monster‑/Kartenbildern nötig; die Kernfunktionalität mit lokal gespeicherten Dateien funktioniert auch offline.
+
+- **Externe Bild‑Hosts (z. B. dndbeyond.com) / beliebige HTTP(S) Bild‑URLs:** Einige vorgefüllte Treffer und von Nutzern eingebettete Bilder können auf entfernten Hosts liegen. Wenn ein Card‑Note ein `http(s)://` Bild referenziert oder die Such‑APIs externe URLs zurückliefern, lädt das Plugin diese Bilder per `fetch` herunter (wird zu Blob/Data‑URL konvertiert) — Internetzugang ist dann erforderlich.
+
+- **Datenschutz / Lokalität:** Thumbnails und generierte Dateien werden lokal im Vault (z. B. `_vtt_thumbnails/`) gespeichert. Das Plugin sendet keine Telemetriedaten. Netzwerkzugriffe erfolgen nur, wenn Features wie die Bildsuche oder externe Bild‑URLs verwendet werden.
+
+
 
