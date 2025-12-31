@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "minAppVersion": "1.5.0",
   "author": "Noah Schneieder",
-  "description": "Shows images of maps on an secondscreen so you can easaly manage your battle maps. It allows fog of war and grid overlay. Perfekt for beaming your map on the table or on an second screen.",
+  "description": "It shows maps on a second screen so you can easily manage your battle maps. It allows fog of war and grid overlay.",
   "authorUrl":"https://github.com/Noah-Retro",
   "isDesktopOnly": true
 }
