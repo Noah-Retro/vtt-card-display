@@ -88,15 +88,6 @@ npm run build
 - `src/popout-html.ts` erstellt das Popout-HTML (Rendering, Grid, Fog-Logik).
 
 Weiteres
-- Feature-Ideen: Playlist/Queue, Remote-Control, Persistente Fog-States, Hotkeys.
 - Fehler/Feature-Requests: Issue mit Popout-Logs (Developer Console) und kurzer Beschreibung anhängen.
 
-------
 
-Wenn du willst, kann ich jetzt noch:
-- die README ins Englische übersetzen, oder
-- gezielt die `Commands`-Liste anhand der tatsächlichen `src/main.ts`-Commands abgleichen und anschließend nur existierende Commands auflisten.
-Sag kurz, was du bevorzugst.
-- **Map** — Select from the Maps folder
-
-- **Statblock** — Path to a note containing a statblock
